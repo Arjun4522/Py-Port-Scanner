@@ -16,6 +16,10 @@ This is a simple Python script for scanning open ports on a target host. It util
 
 6. Once the scan is complete, the script will display the open ports (if any) along with their corresponding service names.
 
+## Disclaimer
+
+This script is provided for educational purposes only. The author and the organization behind this script are not responsible for any misuse, damage, or illegal activities caused by the usage of this script.
+
 
 
 
