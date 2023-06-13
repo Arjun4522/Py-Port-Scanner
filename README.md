@@ -1,6 +1,6 @@
 # Py-Port-Scanner
 
-This is a simple Python script for scanning open ports on a target host. It utilizes the `socket` module to establish TCP/IP connections and determine if a specific port is open or closed.
+This is a simple Python script for scanning open ports on a target host. It utilizes the `socket` module to establish TCP/IP connections and determine if a specific port is open or closed(work in progress).
 
 ## Usage
 
